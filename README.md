@@ -48,7 +48,9 @@ Docker Compose упрощает запуск и оркестрацию конт�
 
 ### Решение 3
 [docker-compose.yml](prometheus/docker-compose.yml)
+
 ![1](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img1.png)
+
 ![2](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img2.png)
 
 ### Задание 4 
