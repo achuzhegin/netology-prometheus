@@ -48,8 +48,8 @@ Docker Compose упрощает запуск и оркестрацию конт�
 
 ### Решение 3
 [docker-compose.yml](prometheus/docker-compose.yml)
-![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img1.png)
-![Название скриншота 2](img\img2.png)
+![1](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img1.png)
+![2](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img2.png)
 
 ### Задание 4 
 
@@ -59,8 +59,8 @@ Docker Compose упрощает запуск и оркестрацию конт�
 2. Обеспечьте внешний доступ к порту 9091 c докер-сервера.
 
 ### Решение 4
-![Название скриншота](img\img3.png)
-![Название скриншота](img\img4.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img3.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img4.png)
 ### Задание 5 
 
 **Выполните действия:** 
@@ -71,9 +71,9 @@ Docker Compose упрощает запуск и оркестрацию конт�
 4. Обеспечьте внешний доступ к порту 3000 c порта 80 докер-сервера.
    
 ### Решение 5
-![Название скриншота](img\img5.png)
-![Название скриншота](img\img6.png)
-![Название скриншота](img\img7.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img5.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img6.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img7.png)
 
 ### Задание 6 
 
@@ -103,6 +103,6 @@ Docker Compose упрощает запуск и оркестрацию конт�
 ### Решение 7
 [docker-compose.yml](prometheus/docker-compose.yml)
 Grafana не смог запустить с порта 80, получилось запустить только с порта 3000
-![Название скриншота](img\img8.png)
-![Название скриншота](img\img9.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img8.png)
+![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img9.png)
 
