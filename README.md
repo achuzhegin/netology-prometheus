@@ -62,6 +62,7 @@ Docker Compose упрощает запуск и оркестрацию конт�
 
 ### Решение 4
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img3.png)
+
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img4.png)
 ### Задание 5 
 
@@ -74,7 +75,9 @@ Docker Compose упрощает запуск и оркестрацию конт�
    
 ### Решение 5
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img5.png)
+
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img6.png)
+
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img7.png)
 
 ### Задание 6 
@@ -104,7 +107,10 @@ Docker Compose упрощает запуск и оркестрацию конт�
 * скриншот графика, постоенного на основе вашей метрики.
 ### Решение 7
 [docker-compose.yml](prometheus/docker-compose.yml)
+
 Grafana не смог запустить с порта 80, получилось запустить только с порта 3000
+
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img8.png)
+
 ![Название скриншота](https://github.com/achuzhegin/netology-prometheus/blob/main/img/img9.png)
 
